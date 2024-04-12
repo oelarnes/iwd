@@ -88,6 +88,6 @@ Verdict: Asymmetric signal
 
 Grav is not bias. Adding it is not a way to boost the equity signal. It might be correlated to equity, and it might not. It might have clues to sources of bias, and it might have clues to ways to find an edge. But it is not inherently that information. Inherently, it’s a shell game, a way to shift losses from one column into another.
 
-Another brick in the wall.
+I'll leave you with one last analogy: suppose someone argued to you that betting black in Roulette was a "strong" strategy because when it comes up black, you win more money. Are you sure GIH WR is different?
 
 Next time we will break down GIH WR into pieces and see what’s left over (not much).
