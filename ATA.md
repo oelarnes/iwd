@@ -1,4 +1,4 @@
-We’re taking a break from GIH WR to discuss one of my pet topics: pick orders. The observed ones, ALSA and ATA. Your picks are valuable, and the observations about what people spent on cards is relevant data to the card quality question.
+We’re taking a break from GIH WR to discuss one of my pet topics: pick orders. The observed ones, ALSA and ATA. Your picks are valuable, and the observations about what people spent on cards are relevant to the card quality question.
 
 *You have to know your pick orders.* It’s a truism, one of the first pieces of advice you get as a limited player. But I still don’t think ATA gets the respect it deserves. Instead, the attitude I observe is something like “it’s important to know ALSA so you know when you have to take quality cards,” and quality is identified with the performance metrics. I believe this is a mistake. 
 
